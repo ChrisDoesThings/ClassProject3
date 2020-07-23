@@ -1,0 +1,33 @@
+body 
+{
+    background-color: black;
+    background-size: cover;
+    background-repeat: fixed;
+    text-align: center;
+    font-family: Calibri;
+    color: white; 
+}
+
+h3
+{
+    color: rgb(255,203,155);
+    font-size: 30px;
+    
+}
+h1
+{
+    color: rgb(19,121,255);
+    font-size: 40;
+}
+
+p
+{
+    font-size: 20px;
+}
+ul
+{
+    font-size: 20px;
+    text-align: center;
+    float: center;
+    
+}
